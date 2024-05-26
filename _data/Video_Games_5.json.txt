@@ -1,0 +1,1 @@
+Hello Dear, you have to download the dataset from the link displayed in README.md file (Amazon Review Data (2018): https://forms.gle/UEkkJs69e7Z5A5Ps9) 
